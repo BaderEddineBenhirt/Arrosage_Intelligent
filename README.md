@@ -1,5 +1,5 @@
 
-# Arrosage Intelligent
+# Arrosage Intelligent (Angular,Spring Framework, Jhipster)
 
 
 ## Exécuter et tester le backend localement
