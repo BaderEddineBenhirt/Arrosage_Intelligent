@@ -1,17 +1,15 @@
 
 # Arrosage Intelligent
 
-A brief description of what this project does and who it's for
 
+## Exécuter et tester le backend localement
 
-## Deployment
-
-To deploy this project backend run
+Pour Exécuter le backend localement:
 
 ```bash
   ./mvnw
 ```
-To deploy this project frontend run
+Pour Exécuter le frontend localement:
 
 ```bash
   ng serve
